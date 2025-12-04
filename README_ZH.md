@@ -41,6 +41,8 @@ pip install requests
 **高级搜索 URL 示例：**
 `https://arxiv.org/search/advanced?terms-0-term=%22UAV%22+OR+%22Drone%22&terms-0-field=all&terms-1-term=%22Reinforcement+Learning%22&terms-1-field=title...`
 
+![alt text](image-1.png)
+
 ### 3\. 运行脚本
 
 在终端中执行 `arxiv_batch_export.py` 脚本：

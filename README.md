@@ -41,6 +41,8 @@ Execute your search on ArXiv (either Simple or Advanced Search) and copy the **c
 **Example URL (Advanced Search):**
 `https://arxiv.org/search/advanced?terms-0-term=%22UAV%22+OR+%22Drone%22&terms-0-field=all&terms-1-term=%22Reinforcement+Learning%22&terms-1-field=title...`
 
+![alt text](image.png)
+
 ### 3\. Running the Script
 
 Execute `arxiv_batch_export.py` in your terminal:
