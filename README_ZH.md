@@ -41,7 +41,7 @@ pip install requests
 **高级搜索 URL 示例：**
 `https://arxiv.org/search/advanced?terms-0-term=%22UAV%22+OR+%22Drone%22&terms-0-field=all&terms-1-term=%22Reinforcement+Learning%22&terms-1-field=title...`
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 ### 3\. 运行脚本
 
